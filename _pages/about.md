@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! My name is Yan Hui Li, and I am a graduate student at the College of Computer Science and Technology, Jilin University. My advisor is Professor Tian Bai.
+Hi! My name is Yan Hui Li, and I am a graduate student at the College of Computer Science and Technology, Jilin University. My advisor is Professor Tian Bai.
 My email is yanhui23@mails.jlu.edu.cn
